@@ -3,6 +3,8 @@
 THE BRO IDEA
 =======
 
+![bro in a CLI](bro.png)
+
 `bro`
 
 It's more focused than `man` pages
@@ -10,6 +12,14 @@ It's more focused than `man` pages
 It provides a few simple examples for command line tools
 
 It's crowdsourced: all bro entries are editable by the community
+
+INSTALL
+-----------
+
+```sh
+$ gem install wb-bropages
+```
+
 
 THE WEB
 -----------
