@@ -19,6 +19,10 @@ The server is at http://bropages.org
 RELEASE NOTES
 -----------
 
+*v1.0.0*
+* Diverge from original bropages gem
+* Complete rehaul in design
+
 *v0.1.0*
 * Add support for --no-color and --with-color options
 * Fix Ruby 1.8.7 compatibility issues
