@@ -2,3 +2,6 @@
 
 .rspec
 .rvmrc
+
+# http://stackoverflow.com/questions/4151495/should-gemfile-lock-be-included-in-gitignore#answer-4151540
+Gemfile.lock
